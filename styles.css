@@ -38,6 +38,11 @@
     font-size: 2rem;
   }
 
+  #logo {
+    width: 80px;
+    height: 80px;
+    
+  }
   
   .navbar__menu {
     display: flex;
@@ -389,7 +394,7 @@ border-radius: 4px;
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/cat.jpg');
+    url('/images/monkey-4.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -402,7 +407,7 @@ border-radius: 4px;
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/cat-2.jpg');
+    url('/images/monkey-5.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -415,7 +420,7 @@ border-radius: 4px;
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/monkey-4.jpg');
+    url('/images/monkey-6.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -474,17 +479,4 @@ border-radius: 4px;
 .website__rights {
     color: #fff;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
